@@ -5,7 +5,9 @@ for me and you,exceedingly too small."  -- e.e. cummings --
 
 Facts, numbers, and names are not history.  
 
-Just what is "history"?  Coming up with a good definition for "history" is one of the objectives of this project.  Definitions can be powerful.  They can provide us with focus and scope.  Therefore, crafting appropriate definitions is a foundational activity for meaningful creation.
+Just what is "history"?  
+
+Coming up with a good definition for "history" is one of the objectives of this project.  Definitions can be powerful.  They can provide us with focus and scope.  Therefore, crafting appropriate definitions is a foundational activity for meaningful creation.
 
 Collecting facts, numbers, and names is also a foundational activity.  While we should be careful not to confuse this collection AS history, we cannot deny its value to the study of history and its ultimate creative outcome: storytelling.
 
