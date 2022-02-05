@@ -14,7 +14,7 @@ Collecting facts, numbers, and names is also a foundational activity.  While we 
 So, we are starting with building an index that we can use to reference and relate the events and experiences that make up history.  
 (It seems likely that "events and experiences" will be at the core of our definition for history.)
 
-We are launching this project as a family project.  However, our family has always held a very open idea of what a 'family' is.  We see little distinction between 'family' and 'community'.  However, there is a subtle but powerful difference in what those two terms connote.  Family encompasses the rich interpersonal concern, compassion, acceptance, and intimacy that is not necessarily a part of all communities.
+We are launching this project as a family project.  However, our family has always held a very open idea of what a 'family' is.  We see little distinction between 'family' and 'community'.  Yet, as subtle as it is, we see a powerful difference.  Family encompasses the rich interpersonal concern, compassion, acceptance, and intimacy that is not necessarily a part of all communities.
 
 If you choose to contribute to this project, you are welcome to join this community of amateur historians.  
 
