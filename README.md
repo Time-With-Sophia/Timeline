@@ -9,9 +9,9 @@ A collection of facts, numbers, and names is no more history than a map is the t
 
 History is storytelling.
 
-It is a special kind ofstorytelling that is structured, inspired, and (to some degree) constrained by our understanding of data, reanimated by our own experiences and imaginations. 
+It is a special kind of storytelling that is structured, inspired, and (to some degree) constrained by our understanding of data, reanimated by our own experiences and imaginations. 
 
-"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness." 
+"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness."
 (From Science and Sanity by Alfred Korzybski - 1933)
 
 We are constructing an index we can use to reference and relate the events and experiences that make up history.  
