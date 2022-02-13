@@ -5,14 +5,16 @@ for me and you,exceedingly too small."  -- e.e. cummings --
 
 Facts, numbers, and names are not history.  
 
-Just what is "history"?  
+A collection of facts, numbers, and names is no more history than a map is the terrian it represents.  
 
-Coming up with a good definition for "history" is one of the objectives of this project.  Definitions can be powerful.  They can provide us with focus and scope.  Therefore, crafting appropriate definitions is a foundational activity for meaningful creation.
+History is storytelling.
 
-Collecting facts, numbers, and names is also a foundational activity.  While we should be careful not to confuse this collection AS history, we cannot deny its value to the study of history and its ultimate creative outcome: storytelling.
+It is a special kind ofstorytelling that is structured, inspired, and (to some degree) constrained by our understanding of data, reanimated by our own experiences and imaginations. 
 
-So, we are starting with building an index that we can use to reference and relate the events and experiences that make up history.  
-(It seems likely that "events and experiences" will be at the core of our definition for history.)
+"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness." 
+(From Science and Sanity by Alfred Korzybski - 1933)
+
+We are constructing an index we can use to reference and relate the events and experiences that make up history.  
 
 We are launching this project as a family project.  However, our family has always held a very open idea of what a 'family' is.  We see little distinction between 'family' and 'community'.  Yet, as subtle as it is, we see a powerful difference.  Family encompasses the rich interpersonal concern, compassion, acceptance, and intimacy that is not necessarily a part of all communities.
 
